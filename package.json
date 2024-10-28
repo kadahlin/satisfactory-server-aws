@@ -10,15 +10,15 @@
     "cdk": "cdk"
   },
   "devDependencies": {
-    "@types/node": "10.17.27",
-    "aws-cdk": "2.3.0",
-    "ts-node": "^9.0.0",
+    "@types/node": "22.8.1",
+    "aws-cdk": "2.164.1",
+    "ts-node": "^10.9.2",
     "typescript": "~3.9.7",
     "@aws-sdk/client-ec2": "3.45.0",
     "esbuild": "0.14.10"
   },
   "dependencies": {
-    "aws-cdk-lib": "2.3.0",
+    "aws-cdk-lib": "2.164.1",
     "constructs": "^10.0.0",
     "source-map-support": "^0.5.16"
   }
